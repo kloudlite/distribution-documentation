@@ -4,9 +4,9 @@
 * [How Kloudlite Distribution works ?](how-kloudlite-distribution-works.md)
 * [Basic Concepts](basic-concepts.md)
 * [Getting Started](getting-started/README.md)
-  * [Access Management](getting-started/access-management.md)
   * [Create Container Repos](getting-started/create-container-repos.md)
-  * [Create Images](getting-started/create-images.md)
+  * [Access Management](getting-started/access-management.md)
+  * [Images](getting-started/images.md)
   * [Create Build Integrations](getting-started/create-build-integrations.md)
 * [Infrastructure As Code](infrastructure-as-code.md)
 
